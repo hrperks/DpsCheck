@@ -1,0 +1,6 @@
+## Interface: 60100
+## Title: DPS Check
+## Author: Herbert Perks III
+## Version: 0.1
+
+main.lua
